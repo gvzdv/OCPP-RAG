@@ -191,5 +191,5 @@ def run_chatbot(message, chat_history=[]):
 
 
 chat_history = run_chatbot('''
-In OCPP 1.6, what message should I use to configure when a charge point collects and sends meter values?
+In OCPP 1.6, do I need transactionId in Charging Profile?
 ''')
